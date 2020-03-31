@@ -6,3 +6,12 @@ folloeing concepts utilized
 2.ES5 Prototype
 3.ES6 classes
 4.Local storage 
+
+Functionality 
+1.Add Book
+2.Validation
+3.Delete Book
+4.Store in localStorage
+
+Demo
+https://sawankumar-tak-au7.github.io/book-store-app/
